@@ -25,7 +25,7 @@ Implemented data augmentation with drop out layer.We have done randomRotation an
 ### Model 3
 We increased the traning data to include 8992 images and validation to have 2247 images. This was done to balance the data.
 
-![Alt text]([/main/Model%203.png](https://github.com/siddhesh-its/SkinCancerDetectionUsingCNN/blob/main/Model%203.png)?raw=true "model 3")
+![Alt text]([/main/Model%203.png](/Model%203.png)?raw=true "model 3")
 
 
 In conclusion, the challenges that we have proposed like overfitting, computational resources, false positives, and negative class imbalance, we have implemented all of through the CNN model and tried to improve and train our model so that we can get better accuracy as well as model be trained to its best to give accurate results. 
